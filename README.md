@@ -8,6 +8,10 @@ If the `-f i` option is specified, `bound` returns the first line whose i-th fie
 
 Fields are delimited by the space character (' ') by default, but can the delimiter can be specified with the `-d` option.
 
+## Line number
+
+The line number --- instead of the line itself --- can be returned with the `-i` option.
+
 # Author
 
 Thomas Fischer
